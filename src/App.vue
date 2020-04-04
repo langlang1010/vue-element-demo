@@ -10,6 +10,7 @@
       <el-button type="danger">危险按钮</el-button>
     </el-row>
     <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <router-view/>
   </div>
 </template>
 
